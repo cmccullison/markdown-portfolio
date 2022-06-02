@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Poster of M. Night Shyamalan's Greatest Work](https://image.tmdb.org/t/p/original/ahm8dCxUiqhuCbpngmFSeuWRWfQ.jpg)
