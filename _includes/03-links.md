@@ -1,1 +1,1 @@
-[Twitter] (twitter.com/Caleb_the_First)
+[Twitter](twitter.com/Caleb_the_First)
