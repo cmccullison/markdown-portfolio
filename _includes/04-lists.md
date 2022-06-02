@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. Movies 🎥
+2. Video Games 🎮
+3. Peri-Peri Chicken 🇿🇦🌶️🐔
